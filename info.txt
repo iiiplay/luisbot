@@ -1,0 +1,5 @@
+對應luis天氣機器人
+
+Channel secret 
+376fd090d626bce80a3d22e925bd3946
+
